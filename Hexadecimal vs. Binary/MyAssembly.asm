@@ -153,6 +153,12 @@ doit proc			; proc -- procedure
 	; ---------------------------------------- Hexadecimal vs. Binary ----------------------------------------
 	; ref link:https://www.youtube.com/watch?v=eZ71VIRCEVU&list=PLRwVmtr-pp06-8kzgl6j-hp7JSd829ro2&index=11
 
+	; Number System
+
+	; Decimal		0 | 1	| 2  | 3  | 4   | 5   | 6   | 7   | 8    | 9    | 10   | 11   | 12   | 13   | 14   | 15   | 16			[2Digits]
+	; Binary		0 | 1	| 10 | 11 | 100 | 101 | 110 | 111 | 1000 | 1001 | 1010 | 1011 | 1100 | 1101 | 1110 | 1111 | 10000		[5Digits]
+	;				0 | 1   | 2  | 3  | 4   | 5   | 6   | 7   | 8    | 9															[1Digit]
+	; Hexadecimal	0 | 1   | 2  | 3  | 4   | 5   | 6   | 7   | 8    | 9    | A    | B    | C    | D    | E    | F					[1Digit]
 
 
 
