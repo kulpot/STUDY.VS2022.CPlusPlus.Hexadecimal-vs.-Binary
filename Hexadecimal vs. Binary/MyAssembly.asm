@@ -150,6 +150,11 @@ doit proc			; proc -- procedure
 	; 2^5 | 2^4 | 2^3 | 2^2 | 2^1 | 2^0
 	; 1   | 1   | 0   | 1   | 0   | 1
 
+	; ---------------------------------------- Hexadecimal vs. Binary ----------------------------------------
+	; ref link:https://www.youtube.com/watch?v=eZ71VIRCEVU&list=PLRwVmtr-pp06-8kzgl6j-hp7JSd829ro2&index=11
+
+
+
 
 
 
